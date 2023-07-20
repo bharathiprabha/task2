@@ -1,0 +1,109 @@
+header{
+    display:flex;
+    justify-content:flex-end;
+    background-color: transparent;
+}
+nav ul li{
+    display: inline-block;
+    padding:0px 10px;
+    
+}
+body{
+    background-image:url("images/bg5.jpg");
+}
+.logo{
+    cursor: pointer;
+    float:left;
+}
+h1{
+
+    text-decoration:underline;
+    margin-top:50px;
+    margin-left:50px;
+}
+h2{
+    text-transform:capitalize;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:50px;
+    padding:10px;
+}
+p{
+    text-transform:capitalize;
+    letter-spacing:2px;
+    line-height: 2.0;
+    word-spacing:0.5;
+    margin-left:50px;
+}
+a{
+     color:black;
+     margin-left:50px;
+     font-size:25px;
+     text-decoration: none;
+     border:2px solid white;
+     background-color: white;
+}
+.button{
+    text-decoration:underline;
+}
+.button:hover{
+    color:blue;
+    
+}
+footer{
+    margin-top:200px;
+    padding: 20px;
+    background-color:transparent;
+    text-align:center;
+}
+.button1{
+    border:2px;
+    padding:20px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+}
+.button1:hover{
+    color:blue;
+}
+.button2{
+    border:2px;
+    padding:20px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+}
+.button2:hover{
+    color:blue;
+}
+.button3{
+    border:2px;
+    padding:20px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+}
+.button3:hover{
+    color:blue;
+}
+.button4{
+    border:2px;
+    padding:20px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+}
+.button4:hover{
+    color:blue;
+}
+.button5{
+    border:2px;
+    padding:20px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+}
+.button5:hover{
+    color:blue;
+}
+
+
